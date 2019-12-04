@@ -1,0 +1,324 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="926" viewBox="0 0 1920 926">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dced37"/>
+      <stop offset="1" stop-color="#ff5f9f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.038" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ee8a"/>
+      <stop offset="1" stop-color="#4ce8f2"/>
+    </linearGradient>
+    <filter id="Rectangle_55" x="511" y="268" width="278" height="278" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Portfolio">
+      <rect width="1920" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="Portfolio" clip-path="url(#clip-Portfolio)">
+    <rect width="1920" height="926" fill="#fff"/>
+    <text id="Heading_2_60_" data-name="Heading 2 (60)" transform="translate(61 427)" fill="#1d1d1f" font-size="60" font-family="AbrahamRough-Rough, Abraham"><tspan x="0" y="0">Heading 2 (60)</tspan></text>
+    <text id="Heading_1_80_" data-name="Heading 1 (80)" transform="translate(61 325)" fill="#1d1d1f" font-size="80" font-family="AbrahamRough-Rough, Abraham"><tspan x="0" y="0">Heading 1 (80)</tspan></text>
+    <text id="HERO_120_" data-name="HERO (120 +)" transform="translate(61 179)" fill="#1d1d1f" font-size="120" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">HERO </tspan><tspan y="0" font-family="AbrahamRough-Rough, Abraham">(120 </tspan><tspan y="0">+</tspan><tspan y="0" font-family="AbrahamRough-Rough, Abraham">)</tspan></text>
+    <text id="Heading_4_24_" data-name="Heading 4 (24)" transform="translate(61 536)" fill="#1d1d1f" font-size="24" font-family="AbrahamRough-Rough, Abraham"><tspan x="0" y="0">Heading 4 (24)</tspan></text>
+    <text id="Heading_5_18_" data-name="Heading 5 (18)" transform="translate(61 580)" fill="#1d1d1f" font-size="18" font-family="AbrahamRough-Rough, Abraham"><tspan x="0" y="0">Heading 5 (18)</tspan></text>
+    <text id="Body_Text_Large_24_" data-name="Body Text Large (24)" transform="translate(61 652)" fill="#1d1d1f" font-size="24" font-family="BrandonGrotesque-Regular, Brandon Grotesque"><tspan x="0" y="0">Body Text Large (24)</tspan></text>
+    <text id="Body_Text_Large_Semibold_24_" data-name="Body Text Large Semibold (24)" transform="translate(323 652)" fill="#1d1d1f" font-size="24" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">Body Text Large Semibold (24)</tspan></text>
+    <text id="Body_Text_Medium_20_" data-name="Body Text Medium (20)" transform="translate(61 702)" fill="#1d1d1f" font-size="20" font-family="BrandonGrotesque-Regular, Brandon Grotesque"><tspan x="0" y="0">Body Text Medium (20)</tspan></text>
+    <text id="Body_Text_Semibold_20_" data-name="Body Text Semibold (20)" transform="translate(323 702)" fill="#1d1d1f" font-size="20" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">Body Text Semibold (20)</tspan></text>
+    <text id="Caption_18_" data-name="Caption (18)" transform="translate(61 747)" fill="#1d1d1f" font-size="18" font-family="BrandonGrotesque-Regular, Brandon Grotesque"><tspan x="0" y="0">CAPTION (18)</tspan></text>
+    <text id="Caption_semibold_18_" data-name="Caption semibold (18)" transform="translate(323 747)" fill="#1d1d1f" font-size="18" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">CAPTION SEMIBOLD (18)</tspan></text>
+    <text id="Normal_16_" data-name="Normal (16)" transform="translate(61 792)" fill="#1d1d1f" font-size="16" font-family="BrandonGrotesque-Regular, Brandon Grotesque"><tspan x="0" y="0">Normal (16)</tspan></text>
+    <text id="Normal_Semibold_16_" data-name="Normal Semibold (16)" transform="translate(323 792)" fill="#1d1d1f" font-size="16" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">Normal Semibold (16)</tspan></text>
+    <text id="Small_12_" data-name="Small (12)" transform="translate(61 831)" fill="#1d1d1f" font-size="12" font-family="BrandonGrotesque-Regular, Brandon Grotesque"><tspan x="0" y="0">Small (12)</tspan></text>
+    <text id="Small_Semibold_12_" data-name="Small Semibold (12)" transform="translate(323 831)" fill="#1d1d1f" font-size="12" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">Small Semibold (12)</tspan></text>
+    <text id="Heading_3_30_" data-name="Heading 3 (30)" transform="translate(61 484)" fill="#1d1d1f" font-size="30" font-family="AbrahamRough-Rough, Abraham"><tspan x="0" y="0">Heading 3 (30)</tspan></text>
+    <g id="Link" transform="translate(657 112)">
+      <path id="Path_379" data-name="Path 379" d="M298.273,1808.3h42" transform="translate(-298.181 -1766.297)" fill="none" stroke="#ff2354" stroke-width="2"/>
+      <text id="LINK-2" data-name="LINK" transform="translate(21 29)" fill="#ff2958" font-size="30" font-family="AbrahamRough-Rough, Abraham"><tspan x="-21.497" y="0">Link</tspan></text>
+    </g>
+    <g id="Logo_Light_Yes" data-name="Logo/Light/Yes" transform="translate(762.663 78.986)">
+      <g id="Boulder_Background" data-name="Boulder Background" transform="translate(-24.801 -38.491)">
+        <g id="Path_2" data-name="Path 2" transform="translate(5900 656.37)" fill="#f8f8f8">
+          <path d="M -5831.98046875 -498.1125183105469 L -5836.98046875 -498.1125183105469 L -5875.19873046875 -498.1125183105469 L -5882.42822265625 -498.1125183105469 L -5879.876953125 -504.8768615722656 L -5876.005859375 -515.1415405273438 L -5875.205078125 -517.2658081054688 L -5873.078125 -518.0607299804688 L -5849.18798828125 -526.9904174804688 L -5846.4296875 -528.0214233398438 L -5844.1904296875 -526.1091918945312 L -5833.7333984375 -517.1795043945312 L -5831.98046875 -515.6824951171875 L -5831.98046875 -513.377197265625 L -5831.98046875 -503.1125183105469 L -5831.98046875 -498.1125183105469 Z" stroke="none"/>
+          <path d="M -5836.98046875 -503.1125183105469 L -5836.98046875 -513.377197265625 L -5847.4375 -522.306884765625 L -5871.32763671875 -513.377197265625 L -5875.19873046875 -503.1125183105469 L -5836.98046875 -503.1125183105469 M -5826.98046875 -493.1125183105469 L -5836.98046875 -493.1125183105469 L -5875.19873046875 -493.1125183105469 L -5889.65771484375 -493.1125183105469 L -5884.5556640625 -506.6412048339844 L -5880.6845703125 -516.9058837890625 L -5879.08203125 -521.1544189453125 L -5874.8291015625 -522.7442626953125 L -5850.93896484375 -531.6739501953125 L -5845.42236328125 -533.7359008789062 L -5840.94384765625 -529.9114990234375 L -5830.48681640625 -520.9817504882812 L -5826.98046875 -517.9877319335938 L -5826.98046875 -513.377197265625 L -5826.98046875 -503.1125183105469 L -5826.98046875 -493.1125183105469 Z" stroke="none" fill="#f8f8f8"/>
+        </g>
+        <g id="Path_1" data-name="Path 1" transform="translate(5939.786 663.693)" fill="#f8f8f8">
+          <path d="M -5775.52001953125 -505.2693176269531 L -5781.13671875 -505.2820739746094 L -5882.47314453125 -505.5122985839844 L -5885.001953125 -505.5180358886719 L -5886.49609375 -507.5584716796875 L -5908.9599609375 -538.239013671875 L -5910.08056640625 -539.7693481445312 L -5909.904296875 -541.6578369140625 L -5906.21875 -581.1143798828125 L -5905.90185546875 -584.5037231445312 L -5902.63232421875 -585.4515991210938 L -5889.93359375 -589.13330078125 L -5872.208984375 -627.3078002929688 L -5870.515625 -630.9541625976562 L -5866.5908203125 -630.0834350585938 L -5832.552734375 -622.5324096679688 L -5832.193359375 -622.4525756835938 L -5831.84912109375 -622.3209228515625 L -5804.70654296875 -611.9356079101562 L -5801.98388671875 -610.8938598632812 L -5801.54931640625 -608.0114135742188 L -5797.4755859375 -581.0029907226562 L -5781.64990234375 -554.865966796875 L -5781.08349609375 -553.9306030273438 L -5780.958984375 -552.8441772460938 L -5776.15771484375 -510.8500061035156 L -5775.52001953125 -505.2693176269531 Z" stroke="none"/>
+          <path d="M -5781.12548828125 -510.2820434570312 L -5785.9267578125 -552.2762451171875 L -5802.2705078125 -579.2685546875 L -5806.4931640625 -607.2657470703125 L -5833.6357421875 -617.6510620117188 L -5867.673828125 -625.2021484375 L -5886.3564453125 -584.9644165039062 L -5901.240234375 -580.6493530273438 L -5904.92578125 -541.1928100585938 L -5882.4619140625 -510.5122680664062 L -5781.12548828125 -510.2820434570312 M -5769.9140625 -500.2565307617188 L -5781.1484375 -500.2820739746094 L -5882.48486328125 -500.5122985839844 L -5887.54248046875 -500.5238037109375 L -5890.5302734375 -504.6046752929688 L -5912.994140625 -535.2852172851562 L -5915.2353515625 -538.3458862304688 L -5914.88232421875 -542.122802734375 L -5911.19677734375 -581.5794067382812 L -5910.5634765625 -588.3580932617188 L -5904.02490234375 -590.2538452148438 L -5893.5107421875 -593.3020629882812 L -5876.74365234375 -629.4133911132812 L -5873.35791015625 -636.7061767578125 L -5865.50830078125 -634.9647827148438 L -5831.4697265625 -627.4136962890625 L -5830.75048828125 -627.2540893554688 L -5830.06201171875 -626.99072265625 L -5802.91943359375 -616.6054077148438 L -5797.474609375 -614.5220336914062 L -5796.60498046875 -608.7571411132812 L -5792.6806640625 -582.7374267578125 L -5777.37255859375 -557.4557495117188 L -5776.23974609375 -555.5849609375 L -5775.99169921875 -553.4121704101562 L -5771.1904296875 -511.41796875 L -5769.9140625 -500.2565307617188 Z" stroke="none" fill="#f8f8f8"/>
+        </g>
+      </g>
+      <g id="Boulder_Foreground" data-name="Boulder Foreground" transform="translate(-24.801 -38.491)">
+        <path id="Path_1-2" data-name="Path 1" d="M-5882.462-510.512l-22.464-30.681,3.686-39.457,14.884-4.315,18.683-40.238,34.038,7.551,27.143,10.385,4.223,28,16.344,26.992,4.8,41.994Z" transform="translate(5939.786 663.693)" fill="none" stroke="#1d1d1f" stroke-width="6"/>
+        <path id="Path_2-2" data-name="Path 2" d="M-5875.2-503.113l3.871-10.265,23.89-8.93,10.457,8.93v10.265Z" transform="translate(5900 656.37)" fill="#1d1d1f" stroke="#1d1d1f" stroke-width="6"/>
+      </g>
+      <g id="Text" transform="translate(-19.663 -22.986)">
+        <text id="We" transform="translate(72 68)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">We</tspan></text>
+        <text id="Spot" transform="translate(56 99)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Spot</tspan></text>
+        <text id="Sintra" transform="translate(64 129)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Sintra</tspan></text>
+        <text id="Boulder_Festival" data-name="Boulder Festival" transform="translate(25 166)" fill="#1d1d1f" font-size="14" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">BOULDER FESTIVAL</tspan></text>
+      </g>
+    </g>
+    <g id="Logo_Gradient2_Yes" data-name="Logo/Gradient2/Yes" transform="translate(1302.663 78.986)">
+      <g id="Boulder_Background-2" data-name="Boulder Background" transform="translate(-24.801 -38.491)">
+        <g id="Path_2-3" data-name="Path 2" transform="translate(5900 656.37)" fill="#f8f8f8">
+          <path d="M -5831.98046875 -498.1125183105469 L -5836.98046875 -498.1125183105469 L -5875.19873046875 -498.1125183105469 L -5882.42822265625 -498.1125183105469 L -5879.876953125 -504.8768615722656 L -5876.005859375 -515.1415405273438 L -5875.205078125 -517.2658081054688 L -5873.078125 -518.0607299804688 L -5849.18798828125 -526.9904174804688 L -5846.4296875 -528.0214233398438 L -5844.1904296875 -526.1091918945312 L -5833.7333984375 -517.1795043945312 L -5831.98046875 -515.6824951171875 L -5831.98046875 -513.377197265625 L -5831.98046875 -503.1125183105469 L -5831.98046875 -498.1125183105469 Z" stroke="none"/>
+          <path d="M -5836.98046875 -503.1125183105469 L -5836.98046875 -513.377197265625 L -5847.4375 -522.306884765625 L -5871.32763671875 -513.377197265625 L -5875.19873046875 -503.1125183105469 L -5836.98046875 -503.1125183105469 M -5826.98046875 -493.1125183105469 L -5836.98046875 -493.1125183105469 L -5875.19873046875 -493.1125183105469 L -5889.65771484375 -493.1125183105469 L -5884.5556640625 -506.6412048339844 L -5880.6845703125 -516.9058837890625 L -5879.08203125 -521.1544189453125 L -5874.8291015625 -522.7442626953125 L -5850.93896484375 -531.6739501953125 L -5845.42236328125 -533.7359008789062 L -5840.94384765625 -529.9114990234375 L -5830.48681640625 -520.9817504882812 L -5826.98046875 -517.9877319335938 L -5826.98046875 -513.377197265625 L -5826.98046875 -503.1125183105469 L -5826.98046875 -493.1125183105469 Z" stroke="none" fill="#f8f8f8"/>
+        </g>
+        <g id="Path_1-3" data-name="Path 1" transform="translate(5939.786 663.693)" fill="url(#linear-gradient)">
+          <path d="M -5775.52001953125 -505.2693176269531 L -5781.13671875 -505.2820739746094 L -5882.47314453125 -505.5122985839844 L -5885.001953125 -505.5180358886719 L -5886.49609375 -507.5584716796875 L -5908.9599609375 -538.239013671875 L -5910.08056640625 -539.7693481445312 L -5909.904296875 -541.6578369140625 L -5906.21875 -581.1143798828125 L -5905.90185546875 -584.5037231445312 L -5902.63232421875 -585.4515991210938 L -5889.93359375 -589.13330078125 L -5872.208984375 -627.3078002929688 L -5870.515625 -630.9541625976562 L -5866.5908203125 -630.0834350585938 L -5832.552734375 -622.5324096679688 L -5832.193359375 -622.4525756835938 L -5831.84912109375 -622.3209228515625 L -5804.70654296875 -611.9356079101562 L -5801.98388671875 -610.8938598632812 L -5801.54931640625 -608.0114135742188 L -5797.4755859375 -581.0029907226562 L -5781.64990234375 -554.865966796875 L -5781.08349609375 -553.9306030273438 L -5780.958984375 -552.8441772460938 L -5776.15771484375 -510.8500061035156 L -5775.52001953125 -505.2693176269531 Z" stroke="none"/>
+          <path d="M -5781.12548828125 -510.2820434570312 L -5785.9267578125 -552.2762451171875 L -5802.2705078125 -579.2685546875 L -5806.4931640625 -607.2657470703125 L -5833.6357421875 -617.6510620117188 L -5867.673828125 -625.2021484375 L -5886.3564453125 -584.9644165039062 L -5901.240234375 -580.6493530273438 L -5904.92578125 -541.1928100585938 L -5882.4619140625 -510.5122680664062 L -5781.12548828125 -510.2820434570312 M -5769.9140625 -500.2565307617188 L -5781.1484375 -500.2820739746094 L -5882.48486328125 -500.5122985839844 L -5887.54248046875 -500.5238037109375 L -5890.5302734375 -504.6046752929688 L -5912.994140625 -535.2852172851562 L -5915.2353515625 -538.3458862304688 L -5914.88232421875 -542.122802734375 L -5911.19677734375 -581.5794067382812 L -5910.5634765625 -588.3580932617188 L -5904.02490234375 -590.2538452148438 L -5893.5107421875 -593.3020629882812 L -5876.74365234375 -629.4133911132812 L -5873.35791015625 -636.7061767578125 L -5865.50830078125 -634.9647827148438 L -5831.4697265625 -627.4136962890625 L -5830.75048828125 -627.2540893554688 L -5830.06201171875 -626.99072265625 L -5802.91943359375 -616.6054077148438 L -5797.474609375 -614.5220336914062 L -5796.60498046875 -608.7571411132812 L -5792.6806640625 -582.7374267578125 L -5777.37255859375 -557.4557495117188 L -5776.23974609375 -555.5849609375 L -5775.99169921875 -553.4121704101562 L -5771.1904296875 -511.41796875 L -5769.9140625 -500.2565307617188 Z" stroke="none" fill="#f8f8f8"/>
+        </g>
+      </g>
+      <g id="Boulder_Foreground-2" data-name="Boulder Foreground" transform="translate(-24.801 -38.491)">
+        <path id="Path_1-4" data-name="Path 1" d="M-5882.462-510.512l-22.464-30.681,3.686-39.457,14.884-4.315,18.683-40.238,34.038,7.551,27.143,10.385,4.223,28,16.344,26.992,4.8,41.994Z" transform="translate(5939.786 663.693)" fill="none" stroke="#1d1d1f" stroke-width="6"/>
+        <path id="Path_2-4" data-name="Path 2" d="M-5875.2-503.113l3.871-10.265,23.89-8.93,10.457,8.93v10.265Z" transform="translate(5900 656.37)" fill="#1d1d1f" stroke="#1d1d1f" stroke-width="6"/>
+      </g>
+      <g id="Text-2" data-name="Text" transform="translate(-19.663 -22.986)">
+        <text id="We-2" data-name="We" transform="translate(72 68)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">We</tspan></text>
+        <text id="Spot-2" data-name="Spot" transform="translate(56 99)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Spot</tspan></text>
+        <text id="Sintra-2" data-name="Sintra" transform="translate(64 129)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Sintra</tspan></text>
+        <text id="Boulder_Festival-2" data-name="Boulder Festival" transform="translate(25 166)" fill="#1d1d1f" font-size="14" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">BOULDER FESTIVAL</tspan></text>
+      </g>
+    </g>
+    <g id="Logo_Gradient1_Yes" data-name="Logo/Gradient1/Yes" transform="translate(1118.663 78.986)">
+      <g id="Boulder_Background-3" data-name="Boulder Background" transform="translate(-24.801 -38.491)">
+        <g id="Path_2-5" data-name="Path 2" transform="translate(5900 656.37)" fill="#f8f8f8">
+          <path d="M -5831.98046875 -498.1125183105469 L -5836.98046875 -498.1125183105469 L -5875.19873046875 -498.1125183105469 L -5882.42822265625 -498.1125183105469 L -5879.876953125 -504.8768615722656 L -5876.005859375 -515.1415405273438 L -5875.205078125 -517.2658081054688 L -5873.078125 -518.0607299804688 L -5849.18798828125 -526.9904174804688 L -5846.4296875 -528.0214233398438 L -5844.1904296875 -526.1091918945312 L -5833.7333984375 -517.1795043945312 L -5831.98046875 -515.6824951171875 L -5831.98046875 -513.377197265625 L -5831.98046875 -503.1125183105469 L -5831.98046875 -498.1125183105469 Z" stroke="none"/>
+          <path d="M -5836.98046875 -503.1125183105469 L -5836.98046875 -513.377197265625 L -5847.4375 -522.306884765625 L -5871.32763671875 -513.377197265625 L -5875.19873046875 -503.1125183105469 L -5836.98046875 -503.1125183105469 M -5826.98046875 -493.1125183105469 L -5836.98046875 -493.1125183105469 L -5875.19873046875 -493.1125183105469 L -5889.65771484375 -493.1125183105469 L -5884.5556640625 -506.6412048339844 L -5880.6845703125 -516.9058837890625 L -5879.08203125 -521.1544189453125 L -5874.8291015625 -522.7442626953125 L -5850.93896484375 -531.6739501953125 L -5845.42236328125 -533.7359008789062 L -5840.94384765625 -529.9114990234375 L -5830.48681640625 -520.9817504882812 L -5826.98046875 -517.9877319335938 L -5826.98046875 -513.377197265625 L -5826.98046875 -503.1125183105469 L -5826.98046875 -493.1125183105469 Z" stroke="none" fill="#f8f8f8"/>
+        </g>
+        <g id="Path_1-5" data-name="Path 1" transform="translate(5939.786 663.693)" fill="url(#linear-gradient-2)">
+          <path d="M -5775.52001953125 -505.2693176269531 L -5781.13671875 -505.2820739746094 L -5882.47314453125 -505.5122985839844 L -5885.001953125 -505.5180358886719 L -5886.49609375 -507.5584716796875 L -5908.9599609375 -538.239013671875 L -5910.08056640625 -539.7693481445312 L -5909.904296875 -541.6578369140625 L -5906.21875 -581.1143798828125 L -5905.90185546875 -584.5037231445312 L -5902.63232421875 -585.4515991210938 L -5889.93359375 -589.13330078125 L -5872.208984375 -627.3078002929688 L -5870.515625 -630.9541625976562 L -5866.5908203125 -630.0834350585938 L -5832.552734375 -622.5324096679688 L -5832.193359375 -622.4525756835938 L -5831.84912109375 -622.3209228515625 L -5804.70654296875 -611.9356079101562 L -5801.98388671875 -610.8938598632812 L -5801.54931640625 -608.0114135742188 L -5797.4755859375 -581.0029907226562 L -5781.64990234375 -554.865966796875 L -5781.08349609375 -553.9306030273438 L -5780.958984375 -552.8441772460938 L -5776.15771484375 -510.8500061035156 L -5775.52001953125 -505.2693176269531 Z" stroke="none"/>
+          <path d="M -5781.12548828125 -510.2820434570312 L -5785.9267578125 -552.2762451171875 L -5802.2705078125 -579.2685546875 L -5806.4931640625 -607.2657470703125 L -5833.6357421875 -617.6510620117188 L -5867.673828125 -625.2021484375 L -5886.3564453125 -584.9644165039062 L -5901.240234375 -580.6493530273438 L -5904.92578125 -541.1928100585938 L -5882.4619140625 -510.5122680664062 L -5781.12548828125 -510.2820434570312 M -5769.9140625 -500.2565307617188 L -5781.1484375 -500.2820739746094 L -5882.48486328125 -500.5122985839844 L -5887.54248046875 -500.5238037109375 L -5890.5302734375 -504.6046752929688 L -5912.994140625 -535.2852172851562 L -5915.2353515625 -538.3458862304688 L -5914.88232421875 -542.122802734375 L -5911.19677734375 -581.5794067382812 L -5910.5634765625 -588.3580932617188 L -5904.02490234375 -590.2538452148438 L -5893.5107421875 -593.3020629882812 L -5876.74365234375 -629.4133911132812 L -5873.35791015625 -636.7061767578125 L -5865.50830078125 -634.9647827148438 L -5831.4697265625 -627.4136962890625 L -5830.75048828125 -627.2540893554688 L -5830.06201171875 -626.99072265625 L -5802.91943359375 -616.6054077148438 L -5797.474609375 -614.5220336914062 L -5796.60498046875 -608.7571411132812 L -5792.6806640625 -582.7374267578125 L -5777.37255859375 -557.4557495117188 L -5776.23974609375 -555.5849609375 L -5775.99169921875 -553.4121704101562 L -5771.1904296875 -511.41796875 L -5769.9140625 -500.2565307617188 Z" stroke="none" fill="#f8f8f8"/>
+        </g>
+      </g>
+      <g id="Boulder_Foreground-3" data-name="Boulder Foreground" transform="translate(-24.801 -38.491)">
+        <path id="Path_1-6" data-name="Path 1" d="M-5882.462-510.512l-22.464-30.681,3.686-39.457,14.884-4.315,18.683-40.238,34.038,7.551,27.143,10.385,4.223,28,16.344,26.992,4.8,41.994Z" transform="translate(5939.786 663.693)" fill="none" stroke="#1d1d1f" stroke-width="6"/>
+        <path id="Path_2-6" data-name="Path 2" d="M-5875.2-503.113l3.871-10.265,23.89-8.93,10.457,8.93v10.265Z" transform="translate(5900 656.37)" fill="#1d1d1f" stroke="#1d1d1f" stroke-width="6"/>
+      </g>
+      <g id="Text-3" data-name="Text" transform="translate(-19.663 -22.986)">
+        <text id="We-3" data-name="We" transform="translate(72 68)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">We</tspan></text>
+        <text id="Spot-3" data-name="Spot" transform="translate(56 99)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Spot</tspan></text>
+        <text id="Sintra-3" data-name="Sintra" transform="translate(64 129)" fill="#1d1d1f" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Sintra</tspan></text>
+        <text id="Boulder_Festival-3" data-name="Boulder Festival" transform="translate(25 166)" fill="#1d1d1f" font-size="14" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">BOULDER FESTIVAL</tspan></text>
+      </g>
+    </g>
+    <g id="Logo_Dard_Yes" data-name="Logo/Dard/Yes" transform="translate(940.663 78.986)">
+      <g id="Boulder_Background-4" data-name="Boulder Background" transform="translate(-24.801 -38.491)">
+        <g id="Path_2-7" data-name="Path 2" transform="translate(5900 656.37)" fill="#1d1d1f">
+          <path d="M -5831.98046875 -498.1125183105469 L -5836.98046875 -498.1125183105469 L -5875.19873046875 -498.1125183105469 L -5882.42822265625 -498.1125183105469 L -5879.876953125 -504.8768615722656 L -5876.005859375 -515.1415405273438 L -5875.205078125 -517.2658081054688 L -5873.078125 -518.0607299804688 L -5849.18798828125 -526.9904174804688 L -5846.4296875 -528.0214233398438 L -5844.1904296875 -526.1091918945312 L -5833.7333984375 -517.1795043945312 L -5831.98046875 -515.6824951171875 L -5831.98046875 -513.377197265625 L -5831.98046875 -503.1125183105469 L -5831.98046875 -498.1125183105469 Z" stroke="none"/>
+          <path d="M -5836.98046875 -503.1125183105469 L -5836.98046875 -513.377197265625 L -5847.4375 -522.306884765625 L -5871.32763671875 -513.377197265625 L -5875.19873046875 -503.1125183105469 L -5836.98046875 -503.1125183105469 M -5826.98046875 -493.1125183105469 L -5836.98046875 -493.1125183105469 L -5875.19873046875 -493.1125183105469 L -5889.65771484375 -493.1125183105469 L -5884.5556640625 -506.6412048339844 L -5880.6845703125 -516.9058837890625 L -5879.08203125 -521.1544189453125 L -5874.8291015625 -522.7442626953125 L -5850.93896484375 -531.6739501953125 L -5845.42236328125 -533.7359008789062 L -5840.94384765625 -529.9114990234375 L -5830.48681640625 -520.9817504882812 L -5826.98046875 -517.9877319335938 L -5826.98046875 -513.377197265625 L -5826.98046875 -503.1125183105469 L -5826.98046875 -493.1125183105469 Z" stroke="none" fill="#1d1d1f"/>
+        </g>
+        <g id="Path_1-7" data-name="Path 1" transform="translate(5939.786 663.693)" fill="#1d1d1f">
+          <path d="M -5775.52001953125 -505.2693176269531 L -5781.13671875 -505.2820739746094 L -5882.47314453125 -505.5122985839844 L -5885.001953125 -505.5180358886719 L -5886.49609375 -507.5584716796875 L -5908.9599609375 -538.239013671875 L -5910.08056640625 -539.7693481445312 L -5909.904296875 -541.6578369140625 L -5906.21875 -581.1143798828125 L -5905.90185546875 -584.5037231445312 L -5902.63232421875 -585.4515991210938 L -5889.93359375 -589.13330078125 L -5872.208984375 -627.3078002929688 L -5870.515625 -630.9541625976562 L -5866.5908203125 -630.0834350585938 L -5832.552734375 -622.5324096679688 L -5832.193359375 -622.4525756835938 L -5831.84912109375 -622.3209228515625 L -5804.70654296875 -611.9356079101562 L -5801.98388671875 -610.8938598632812 L -5801.54931640625 -608.0114135742188 L -5797.4755859375 -581.0029907226562 L -5781.64990234375 -554.865966796875 L -5781.08349609375 -553.9306030273438 L -5780.958984375 -552.8441772460938 L -5776.15771484375 -510.8500061035156 L -5775.52001953125 -505.2693176269531 Z" stroke="none"/>
+          <path d="M -5781.12548828125 -510.2820434570312 L -5785.9267578125 -552.2762451171875 L -5802.2705078125 -579.2685546875 L -5806.4931640625 -607.2657470703125 L -5833.6357421875 -617.6510620117188 L -5867.673828125 -625.2021484375 L -5886.3564453125 -584.9644165039062 L -5901.240234375 -580.6493530273438 L -5904.92578125 -541.1928100585938 L -5882.4619140625 -510.5122680664062 L -5781.12548828125 -510.2820434570312 M -5769.9140625 -500.2565307617188 L -5781.1484375 -500.2820739746094 L -5882.48486328125 -500.5122985839844 L -5887.54248046875 -500.5238037109375 L -5890.5302734375 -504.6046752929688 L -5912.994140625 -535.2852172851562 L -5915.2353515625 -538.3458862304688 L -5914.88232421875 -542.122802734375 L -5911.19677734375 -581.5794067382812 L -5910.5634765625 -588.3580932617188 L -5904.02490234375 -590.2538452148438 L -5893.5107421875 -593.3020629882812 L -5876.74365234375 -629.4133911132812 L -5873.35791015625 -636.7061767578125 L -5865.50830078125 -634.9647827148438 L -5831.4697265625 -627.4136962890625 L -5830.75048828125 -627.2540893554688 L -5830.06201171875 -626.99072265625 L -5802.91943359375 -616.6054077148438 L -5797.474609375 -614.5220336914062 L -5796.60498046875 -608.7571411132812 L -5792.6806640625 -582.7374267578125 L -5777.37255859375 -557.4557495117188 L -5776.23974609375 -555.5849609375 L -5775.99169921875 -553.4121704101562 L -5771.1904296875 -511.41796875 L -5769.9140625 -500.2565307617188 Z" stroke="none" fill="#1d1d1f"/>
+        </g>
+      </g>
+      <g id="Boulder_Foreground-4" data-name="Boulder Foreground" transform="translate(-24.801 -38.491)">
+        <path id="Path_1-8" data-name="Path 1" d="M-5882.462-510.512l-22.464-30.681,3.686-39.457,14.884-4.315,18.683-40.238,34.038,7.551,27.143,10.385,4.223,28,16.344,26.992,4.8,41.994Z" transform="translate(5939.786 663.693)" fill="none" stroke="#f8f8f8" stroke-width="6"/>
+        <path id="Path_2-8" data-name="Path 2" d="M-5875.2-503.113l3.871-10.265,23.89-8.93,10.457,8.93v10.265Z" transform="translate(5900 656.37)" fill="#f8f8f8" stroke="#f8f8f8" stroke-width="6"/>
+      </g>
+      <g id="Text-4" data-name="Text" transform="translate(-19.663 -22.986)">
+        <text id="We-4" data-name="We" transform="translate(72 68)" fill="#f8f8f8" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">We</tspan></text>
+        <text id="Spot-4" data-name="Spot" transform="translate(56 99)" fill="#f8f8f8" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Spot</tspan></text>
+        <text id="Sintra-4" data-name="Sintra" transform="translate(64 129)" fill="#f8f8f8" font-size="38" font-family="AbrahamStamp-Stamp, Abraham"><tspan x="0" y="0">Sintra</tspan></text>
+        <text id="Boulder_Festival-4" data-name="Boulder Festival" transform="translate(25 166)" fill="#1d1d1f" font-size="14" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="0" y="0">BOULDER FESTIVAL</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_58" data-name="Rectangle 58" width="60" height="40" rx="10" transform="translate(1123 341)" fill="#00ee8a"/>
+    <rect id="Rectangle_59" data-name="Rectangle 59" width="60" height="40" rx="10" transform="translate(955 394)" fill="#cecece"/>
+    <path id="Path_417" data-name="Path 417" d="M10,0H50A10,10,0,0,1,60,10V30A10,10,0,0,1,50,40H10A10,10,0,0,1,0,30V10A10,10,0,0,1,10,0Z" transform="translate(883 394)" fill="#f8f8f8"/>
+    <rect id="Rectangle_60" data-name="Rectangle 60" width="60" height="40" rx="10" transform="translate(955 342)" fill="#717171"/>
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="60" height="40" rx="10" transform="translate(883 342)" fill="#1d1d1f"/>
+    <rect id="Rectangle_62" data-name="Rectangle 62" width="60" height="40" rx="10" transform="translate(1027 342)" fill="#8bdb97"/>
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="60" height="40" rx="10" transform="translate(1027 394)" fill="#39ba96"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="60" height="40" rx="10" transform="translate(991 446)" fill="#b99a74"/>
+    <rect id="Rectangle_65" data-name="Rectangle 65" width="60" height="40" rx="10" transform="translate(1291 389)" fill="#e1f239"/>
+    <path id="Path_418" data-name="Path 418" d="M10,0H50A10,10,0,0,1,60,10V30A10,10,0,0,1,50,40H10A10,10,0,0,1,0,30V10A10,10,0,0,1,10,0Z" transform="translate(1219 389)" fill="#4ce8f2"/>
+    <path id="Path_419" data-name="Path 419" d="M10,0H50A10,10,0,0,1,60,10V30A10,10,0,0,1,50,40H10A10,10,0,0,1,0,30V10A10,10,0,0,1,10,0Z" transform="translate(1219 437)" fill="#ff2958"/>
+    <path id="Path_420" data-name="Path 420" d="M10,0H50A10,10,0,0,1,60,10V30A10,10,0,0,1,50,40H10A10,10,0,0,1,0,30V10A10,10,0,0,1,10,0Z" transform="translate(1291 437)" fill="#ffac10"/>
+    <path id="Path_421" data-name="Path 421" d="M10,0H50A10,10,0,0,1,60,10V30A10,10,0,0,1,50,40H10A10,10,0,0,1,0,30V10A10,10,0,0,1,10,0Z" transform="translate(1291 341)" fill="#ff96bf"/>
+    <rect id="Rectangle_66" data-name="Rectangle 66" width="60" height="40" rx="10" transform="translate(1219 341)" fill="#196d98"/>
+    <text id="Primary" transform="translate(883 321)" fill="#1d1d1f" font-size="14" font-family="BrandonGrotesque-Bold, Brandon Grotesque" font-weight="700"><tspan x="0" y="0">Primary</tspan></text>
+    <text id="Secondary" transform="translate(1219 321)" fill="#1d1d1f" font-size="14" font-family="BrandonGrotesque-Bold, Brandon Grotesque" font-weight="700"><tspan x="0" y="0">Secondary</tspan></text>
+    <text id="CTA" transform="translate(1141 321)" fill="#1d1d1f" font-size="14" font-family="BrandonGrotesque-Bold, Brandon Grotesque" font-weight="700"><tspan x="0" y="0">CTA</tspan></text>
+    <g id="Volunteer_Sponsor_Small_Orange" data-name="Volunteer &amp; Sponsor/Small/Orange" transform="translate(1505.675 342)">
+      <path id="Path_2-2-2" data-name="Path 2-2" d="M-342.527-187.692l15.194-48.6,93.764-42.277,41.042,42.277v48.6Z" transform="translate(342.527 278.564)" fill="#ffac10" stroke="#1d1d1e" stroke-width="6"/>
+      <g id="Boulder_Foreground-5" data-name="Boulder Foreground" transform="translate(18.284 65.513)">
+        <path id="Path_2-2-3" data-name="Path 2-2" d="M-312.053-144.016l6-13.561,37.054-11.8,16.219,11.8v13.562Z" transform="translate(312.053 169.376)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_350" data-name="Path 350" d="M-161.128-213.051v-27.016l-20.681-13.665,12.527-24.833" transform="translate(278.24 278.564)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_351" data-name="Path 351" d="M-317.2-211.443l40.379-5.01,40.858,10.226" transform="translate(332.398 253.719)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Gallery_Small_Red" data-name="Gallery/Small/Red" transform="translate(1500 199)">
+      <path id="Path_2-2-4" data-name="Path 2-2" d="M-589.448,33.8l23.773,45.4-36.644,96.655h-58.966l-34.917-35.3Z" transform="translate(696.202 -33.799)" fill="#ff2958" stroke="#1d1d1e" stroke-width="6"/>
+      <g id="Boulder_Foreground-6" data-name="Boulder Foreground" transform="translate(85.034 77.099)">
+        <path id="Path_1-2-2" data-name="Path 1-2" d="M-537.266,227.252l-15.941-21.773-1.27-25.938,7.918-10.532,22.931-6.712,19.773,9.508,12.665,13.423,1.678,13.982-5.04,11.6-9.3,16.442Z" transform="translate(554.478 -162.298)" fill="#ff2958" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_2-2-5" data-name="Path 2-2" d="M-579.21,234.267-548,241.705V256.04h-36.689l-1.717-13.309Z" transform="translate(652.282 -113.986)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_352" data-name="Path 352" d="M-562.2,33.8l-14.979,43.124-46.74,41.417-4.158,20.226" transform="translate(668.951 -33.799)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Volunteer_Sponsor_Small_Grey" data-name="Volunteer &amp; Sponsor/Small/Grey" transform="translate(1711.169 342)">
+      <path id="Path_2-2-6" data-name="Path 2-2" d="M-342.527-187.692l15.194-48.6,93.764-42.277,41.042,42.277v48.6Z" transform="translate(342.527 278.564)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+      <g id="Boulder_Foreground-7" data-name="Boulder Foreground" transform="translate(18.284 65.513)">
+        <path id="Path_2-2-7" data-name="Path 2-2" d="M-312.053-144.016l6-13.561,37.054-11.8,16.219,11.8v13.562Z" transform="translate(312.053 169.376)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_350-2" data-name="Path 350" d="M-161.128-213.051v-27.016l-20.681-13.665,12.527-24.833" transform="translate(278.24 278.564)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_351-2" data-name="Path 351" d="M-317.2-211.443l40.379-5.01,40.858,10.226" transform="translate(332.398 253.72)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Gallery_Small_Grey" data-name="Gallery/Small/Grey" transform="translate(1705.493 199)">
+      <path id="Path_2-2-8" data-name="Path 2-2" d="M-589.448,33.8l23.773,45.4-36.644,96.655h-58.966l-34.917-35.3Z" transform="translate(696.202 -33.799)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+      <g id="Boulder_Foreground-8" data-name="Boulder Foreground" transform="translate(85.034 77.099)">
+        <path id="Path_1-2-3" data-name="Path 1-2" d="M-537.266,227.252l-15.941-21.773-1.27-25.938,7.918-10.532,22.931-6.712,19.773,9.508,12.665,13.423,1.678,13.982-5.04,11.6-9.3,16.442Z" transform="translate(554.478 -162.298)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_2-2-9" data-name="Path 2-2" d="M-579.21,234.267-548,241.705V256.04h-36.689l-1.717-13.309Z" transform="translate(652.282 -113.986)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_352-2" data-name="Path 352" d="M-562.2,33.8l-14.979,43.124-46.74,41.417-4.158,20.226" transform="translate(668.951 -33.799)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Program_Small_Yellow" data-name="Program/Small/Yellow" transform="translate(1505 83)">
+      <path id="Path_2-2-10" data-name="Path 2-2" d="M-673.947-155.8l-16.229-48.263,22.927-35.8,37.438-12.458,47.708,45.706-6.223,50.819Z" transform="translate(690.176 270.904)" fill="#e1f239" stroke="#1d1d1e" stroke-width="6"/>
+      <g id="Boulder_Foreground-9" data-name="Boulder Foreground" transform="translate(57.497 86.737)">
+        <path id="Path_2-2-11" data-name="Path 2-2" d="M-594.348-110.362l6.716-15.169,41.444-13.2,18.141,13.2v15.169Z" transform="translate(594.348 138.726)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_357" data-name="Path 357" d="M-597.7-252.328l-12.193,37.945v30.217" transform="translate(658.062 270.904)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_2-2-12" data-name="Path 2-2" d="M-528.213-168.186l-12.549-97.74,25.093-17.361,35.259,23.717-10.322,91.384Z" transform="translate(630.41 283.287)" fill="#e1f239" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_358" data-name="Path 358" d="M-498.941-283.287l18.252,30.173L-474-168.186" transform="translate(613.708 283.287)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Program_Small_Grey" data-name="Program/Small/Grey" transform="translate(1710.52 83)">
+      <g id="Group_215" data-name="Group 215" transform="translate(0 0)">
+        <path id="Path_2-2-13" data-name="Path 2-2" d="M-528.213-168.186l-12.549-97.74,25.093-17.361,35.259,23.717-10.322,91.384Z" transform="translate(630.41 283.287)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+        <path id="Path_2-2-14" data-name="Path 2-2" d="M-673.947-155.8l-16.229-48.263,22.927-35.8,37.438-12.458,47.708,45.706-6.223,50.819Z" transform="translate(690.176 270.903)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+        <g id="Boulder_Foreground-10" data-name="Boulder Foreground" transform="translate(57.497 86.737)">
+          <path id="Path_2-2-15" data-name="Path 2-2" d="M-594.348-110.362l6.716-15.169,41.444-13.2,18.141,13.2v15.169Z" transform="translate(594.348 138.726)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+        </g>
+        <path id="Path_357-2" data-name="Path 357" d="M-597.7-252.328l-12.193,37.945v30.217" transform="translate(658.062 270.903)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_358-2" data-name="Path 358" d="M-498.941-283.287l18.252,30.173L-474-168.186" transform="translate(613.682 283.287)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Schedule_Small_Pink" data-name="Schedule/Small/Pink" transform="translate(1505.416 595)">
+      <g id="Boulder_Foreground-11" data-name="Boulder Foreground" transform="translate(0 16.932)">
+        <path id="Path_1-2-4" data-name="Path 1-2" d="M32.548-181.225,10.214-207.207l3.665-33.415,14.8-3.654,18.575-34.076,33.84,6.394,4.429,25.013,26.755,7.494-6.359,32.357L90.284-181.029Z" transform="translate(-10.214 278.351)" fill="#ff96bf" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <g id="Group_213" data-name="Group 213" transform="translate(46.16)">
+        <g id="Boulder_Foreground-12" data-name="Boulder Foreground">
+          <path id="Path_1-2-5" data-name="Path 1-2" d="M111.261-192.547l-22.334-30.5-1.779-36.337,10.775-47.185h28.04l33.84,7.507,20.564,9.425L190.987-260.9l-6.359,37.986L169-192.317Z" transform="translate(-87.148 306.571)" fill="#ff96bf" stroke="#1d1d1e" stroke-width="6"/>
+        </g>
+        <line id="Line_1" data-name="Line 1" x2="65.024" y2="45.669" transform="translate(38.816 0)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <line id="Line_2" data-name="Line 2" x1="1.507" y2="19.07" transform="translate(16.955 51.007)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_2-2-16" data-name="Path 2-2" d="M73.541-142.471l8.513-20.941,52.538-18.217,23,18.217v20.941Z" transform="translate(-35.545 256.594)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Topos_Maps_Small_Cyan" data-name="Topos &amp; Maps/Small/Cyan" transform="translate(1505.197 434)">
+      <g id="Boulder_Foreground-13" data-name="Boulder Foreground">
+        <path id="Path_1-2-6" data-name="Path 1-2" d="M-305.181,176.349l-32.824-42.722,5.386-54.942,21.748-6.008,27.3-56.03,49.736,10.514,6.509,41.127,39.322,12.322-9.347,53.2-22.973,42.857Z" transform="translate(338.005 -16.647)" fill="#4ce8f2" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <g id="Boulder_Foreground-14" data-name="Boulder Foreground" transform="translate(81.083 112.5)">
+        <path id="Path_1-2-7" data-name="Path 1-2" d="M-185.618,251.493l-17.249-23.558,4.508-7.919h10.2l28.838-5.713,9.016-10.157,14.543,1.877,1.815,15.128L-139.4,233.7l-10.066,17.968Z" transform="translate(202.867 -204.147)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_353" data-name="Path 353" d="M-247.283,16.647l4.874,38.043,13.467,12.447,37.9,1.152" transform="translate(301.716 -16.647)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_354" data-name="Path 354" d="M-292.782,110.03l6.236,27.381,18.452,23" transform="translate(319.916 -54)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Practical_Small_Blue" data-name="Practical/Small/Blue" transform="translate(1500.465 710)">
+      <g id="Boulder_Foreground-15" data-name="Boulder Foreground" transform="translate(39.069)">
+        <path id="Path_1-2-8" data-name="Path 1-2" d="M108.767,175.9,81.546,138.72,79.378,94.43,92.9,76.446l39.155-11.46,33.764,16.235,21.627,22.921,2.865,23.875L181.7,147.823l-15.887,28.356Z" transform="translate(-79.378 -64.986)" fill="#196d98" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <g id="Boulder_Foreground-16" data-name="Boulder Foreground" transform="translate(0 38.384)">
+        <path id="Path_1-2-9" data-name="Path 1-2" d="M38.1,201.615,14.263,159.7l27.326-30.745,58.388,33.563,2.254,13.007-6.768,10.79L82.968,201.768Z" transform="translate(-14.263 -128.959)" fill="#196d98" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_2-2-17" data-name="Path 2-2" d="M116.284,234.878l-5.537-8.767,12.381-14.376,11.716,2.986L170.9,234.878Z" transform="translate(-52.857 -123.686)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_355" data-name="Path 355" d="M101.911,84.086h35.38l59.167,27.7" transform="translate(-49.322 -72.626)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_356" data-name="Path 356" d="M57.481,128.959l5.555,43.615-9.044,29.041" transform="translate(-30.154 -90.575)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Topos_Maps_Small_Grey" data-name="Topos &amp; Maps/Small/Grey" transform="translate(1710.691 434)">
+      <g id="Boulder_Foreground-17" data-name="Boulder Foreground">
+        <path id="Path_1-2-10" data-name="Path 1-2" d="M-305.181,176.349l-32.824-42.722,5.386-54.942,21.748-6.008,27.3-56.03,49.736,10.514,6.509,41.127,39.322,12.322-9.347,53.2-22.973,42.857Z" transform="translate(338.005 -16.647)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <g id="Boulder_Foreground-18" data-name="Boulder Foreground" transform="translate(81.083 112.5)">
+        <path id="Path_1-2-11" data-name="Path 1-2" d="M-185.618,251.493l-17.249-23.558,4.508-7.919h10.2l28.838-5.713,9.016-10.157,14.543,1.877,1.815,15.128L-139.4,233.7l-10.066,17.968Z" transform="translate(202.867 -204.147)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_353-2" data-name="Path 353" d="M-247.283,16.647l4.874,38.043,13.467,12.447,37.9,1.152" transform="translate(301.716 -16.647)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_354-2" data-name="Path 354" d="M-292.782,110.03l6.236,27.381,18.452,23" transform="translate(319.916 -54)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Practical_Small_Grey" data-name="Practical/Small/Grey" transform="translate(1705.959 710)">
+      <g id="Boulder_Foreground-19" data-name="Boulder Foreground" transform="translate(39.069)">
+        <path id="Path_1-2-12" data-name="Path 1-2" d="M108.767,175.9,81.546,138.72,79.378,94.43,92.9,76.446l39.155-11.46,33.764,16.235,21.627,22.921,2.865,23.875L181.7,147.823l-15.887,28.356Z" transform="translate(-79.378 -64.986)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <g id="Boulder_Foreground-20" data-name="Boulder Foreground" transform="translate(0 38.384)">
+        <path id="Path_1-2-13" data-name="Path 1-2" d="M38.1,201.615,14.263,159.7l27.326-30.745,58.388,33.563,2.254,13.007-6.768,10.79L82.968,201.768Z" transform="translate(-14.263 -128.959)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <path id="Path_2-2-18" data-name="Path 2-2" d="M116.284,234.878l-5.537-8.767,12.381-14.376,11.716,2.986L170.9,234.878Z" transform="translate(-52.857 -123.686)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_355-2" data-name="Path 355" d="M101.911,84.086h35.38l59.167,27.7" transform="translate(-49.322 -72.626)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_356-2" data-name="Path 356" d="M57.481,128.959l5.555,43.615-9.044,29.041" transform="translate(-30.154 -90.575)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Schedule_Small_Grey" data-name="Schedule/Small/Grey" transform="translate(1710.909 595)">
+      <g id="Boulder_Foreground-21" data-name="Boulder Foreground" transform="translate(0 16.932)">
+        <path id="Path_1-2-14" data-name="Path 1-2" d="M32.548-181.225,10.214-207.207l3.665-33.415,14.8-3.654,18.575-34.076,33.84,6.394,4.429,25.013,26.755,7.494-6.359,32.357L90.284-181.029Z" transform="translate(-10.214 278.351)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <g id="Group_213-2" data-name="Group 213" transform="translate(46.16)">
+        <g id="Boulder_Foreground-22" data-name="Boulder Foreground">
+          <path id="Path_1-2-15" data-name="Path 1-2" d="M111.261-192.547l-22.334-30.5-1.779-36.337,10.775-47.185h28.04l33.84,7.507,20.564,9.425L190.987-260.9l-6.359,37.986L169-192.317Z" transform="translate(-87.148 306.571)" fill="#cecece" stroke="#1d1d1e" stroke-width="6"/>
+        </g>
+        <line id="Line_1-2" data-name="Line 1" x2="65.024" y2="45.669" transform="translate(38.816 0)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      </g>
+      <line id="Line_2-2" data-name="Line 2" x1="1.507" y2="19.07" transform="translate(16.955 51.007)" fill="none" stroke="#1d1d1e" stroke-width="6"/>
+      <path id="Path_2-2-19" data-name="Path 2-2" d="M73.541-142.471l8.513-20.941,52.538-18.217,23,18.217v20.941Z" transform="translate(-35.545 256.594)" fill="#1d1d1e" stroke="#1d1d1e" stroke-width="6"/>
+    </g>
+    <g id="Card" transform="translate(520 274)">
+      <g transform="matrix(1, 0, 0, 1, -520, -274)" filter="url(#Rectangle_55)">
+        <g id="Rectangle_55-2" data-name="Rectangle 55" transform="translate(520 274)" fill="#f8f8f8" stroke="#ffac10" stroke-width="6">
+          <rect width="260" height="260" stroke="none"/>
+          <rect x="3" y="3" width="254" height="254" fill="none"/>
+        </g>
+      </g>
+      <text id="GUIDES_Hosts_V_" data-name="GUIDES + Hosts (V)" transform="translate(130 53)" fill="#1d1d1f" font-size="30" font-family="AbrahamRough-Rough, Abraham"><tspan x="-92.695" y="0">Guides + Hosts (V)</tspan></text>
+      <text id="One_or_more_half-day_shifts_during_event._Friendly_Communicative_Portuguese_English_speaking_" data-name="One or more half-day shifts during event.
+
+Friendly | Communicative | Portuguese &amp; English speaking
+
+
+" transform="translate(33 79)" fill="#1d1d1f" font-size="20" font-family="BrandonGrotesque-Medium, Brandon Grotesque" font-weight="500"><tspan x="11.88" y="21">One or more half-day </tspan><tspan x="22.21" y="50">shifts during event.</tspan><tspan x="97" y="79"></tspan><tspan font-family="BrandonGrotesque-RegularItalic, Brandon Grotesque" font-weight="400" font-style="italic"><tspan x="3.25" y="108">Friendly | Communicative </tspan><tspan x="14.89" y="137">| Portuguese &amp; English </tspan></tspan></text>
+    </g>
+    <g id="Tree" transform="translate(887.734 579.532)">
+      <path id="Path_346" data-name="Path 346" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1614.698 2402.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="Tree_Group" data-name="Tree Group" transform="translate(1007.734 579.532)">
+      <path id="Path_359" data-name="Path 359" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1614.698 2402.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_360" data-name="Path 360" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1697.698 2402.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_361" data-name="Path 361" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1660.698 2474.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_362" data-name="Path 362" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1633.698 2429.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="Forest" transform="translate(1212.734 579.532)">
+      <path id="Path_363" data-name="Path 363" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1614.698 2402.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_367" data-name="Path 367" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(2485.041 -1419.694) rotate(-90)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_366" data-name="Path 366" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1697.698 2402.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_370" data-name="Path 370" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(2485.041 -1502.694) rotate(-90)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_365" data-name="Path 365" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1660.698 2474.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_369" data-name="Path 369" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(2557.041 -1465.694) rotate(-90)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_364" data-name="Path 364" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(1614.698 2469.541)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_368" data-name="Path 368" d="M-1560.194-2375.375a16.107,16.107,0,0,0-11.774-15.512,16.107,16.107,0,0,0-15.478-11.654,16.106,16.106,0,0,0-15.529,11.841,16.107,16.107,0,0,0-11.723,15.5,16.106,16.106,0,0,0,11.961,15.562,16.106,16.106,0,0,0,15.463,11.6,16.106,16.106,0,0,0,15.544-11.9A16.106,16.106,0,0,0-1560.194-2375.375Z" transform="translate(2512.041 -1438.694) rotate(-90)" fill="#8bdb97" stroke="#20b78d" stroke-width="6" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="Small_3" data-name="Small 3" transform="translate(742.061 594.254)">
+      <g id="Group_89" data-name="Group 89" transform="matrix(0.017, -1, 1, 0.017, 0, 45.242)" style="mix-blend-mode: multiply;isolation: isolate">
+        <path id="Path_74" data-name="Path 74" d="M.594,10.185C-2.225,18.294,5.9,24.593,5.9,24.593s-6.37,23.359,0,28.137,12.211,24,19.643,23.15,20.7-8.816,19.643-15.717,0-26.014-3.185-35.039S27.729-1.951,22.921.172,4.31-.509.594,10.185Z" transform="translate(0 0)" fill="#cecece" stroke="#717171" stroke-width="6"/>
+      </g>
+    </g>
+    <g id="Small_2" data-name="Small 2" transform="translate(821.962 684.241)">
+      <g id="Group_109" data-name="Group 109" style="mix-blend-mode: multiply;isolation: isolate">
+        <path id="Path_90" data-name="Path 90" d="M755.787,3893.8c-3.424,7.732,6.449,13.74,6.449,13.74s-7.739,22.272,0,26.829,14.833,22.886,23.863,22.072,25.152-8.405,23.861-14.986,27.78-43.671,23.911-52.277-39.226,14.19-50.96-4.924C780.42,3880.2,760.3,3883.607,755.787,3893.8Z" transform="translate(-755.065 -3882.59)" fill="#cecece" stroke="#717171" stroke-width="6"/>
+      </g>
+    </g>
+    <g id="Small_1" data-name="Small 1" transform="translate(837.901 733.649)">
+      <g id="Group_131" data-name="Group 131" transform="matrix(0.616, 0.788, -0.788, 0.616, 150.602, 0)" style="mix-blend-mode: multiply;isolation: isolate">
+        <path id="Path_90-2" data-name="Path 90" d="M755.929,3911.594c-4.1,20,7.72,35.542,7.72,35.542s-9.264,57.618,0,69.4,17.758,59.2,28.567,57.1,30.111-21.743,28.566-38.765,33.258-112.972,28.626-135.234-46.96,36.706-61.007-12.737C785.419,3876.41,761.335,3885.221,755.929,3911.594Z" transform="translate(-755.065 -3882.589)" fill="#cecece" stroke="#717171" stroke-width="6"/>
+      </g>
+    </g>
+    <g id="Small_4" data-name="Small 4" transform="translate(729.309 684.241)">
+      <g id="Group_91" data-name="Group 91" style="mix-blend-mode: multiply;isolation: isolate">
+        <path id="Path_78" data-name="Path 78" d="M748.251,3699.216a12.319,12.319,0,0,0,2,9.2s-9.39,18.187-6.991,21.239,11.589,12.063,14.388,11.518,15.428-7.11,15.029-11.518,1.091-14.126-.109-19.891-12.27-4.143-15.908-16.946C755.887,3690.1,749.651,3692.386,748.251,3699.216Z" transform="translate(-742.867 -3691.705)" fill="#cecece" stroke="#717171" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>
